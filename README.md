@@ -2,13 +2,13 @@
 Exemplo pisca-pisca (Blink), no ESP32 usando MicroPython
 
  <p align="center">
- <img src=https://i.imgur.com/hBJWi0b.mp4>
+ <img src=./img/LedPiscando.gif>
 </p>
       O exemplo liga o led embutido, e um led externo e após 0.8s ele desliga e entra em loop... esse intervalo pode ser modificado na linha 14 do arquivo main.py ...
 
 ## Montagem
 <p align="center">
- <img src=https://i.imgur.com/IjUbu8k.png>
+ <img src=./img/Ligação.png>
 </p>
 
 #### Material Necessário
